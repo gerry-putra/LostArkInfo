@@ -1,1 +1,3 @@
 # LostArkInfo
+
+# Contributor: Gerry Putra
